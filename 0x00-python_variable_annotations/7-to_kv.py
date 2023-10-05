@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""type-annotated function that takes a string k and an int OR float v and returns a tuple"""
+"""
+type-annotated function that takes a string k
+and an int OR float v and returns a tuple
+"""
 from typing import Union, Tuple
 
 
